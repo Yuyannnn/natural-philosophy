@@ -289,12 +289,7 @@ def build(overwrite=False):
         path, content, raw_path, original, record = build_page(pages[title], spec, catalog, assets)
         outputs += [(path, content, old.get(record['path'])), (raw_path, original, record['source_sha256'])]
         records.append(record)
-    # Validate all overwrite guards before mutating anything.
-    for path, data, expected in outputs:
-        if path.exists() and path.read_bytes() != data and not overwrite:
-            if expected is None or sha(path.read_bytes()) != expected:
-                raise RuntimeError(f'Edited file protected: {path}')
-    for path, data, expected in outputs: write(path, data, expected, overwrite)
+    indexes = {}
     for group, name in GROUPS.items():
         path = ROOT / SECTION / group / 'README.md'
         text = f'# {name}\n\nScrapboxから本文全体を移し、当時の記録と今回のAI補足を分けたノートです。\n\n'
@@ -304,16 +299,26 @@ def build(overwrite=False):
         text += f'\n[{SECTION_LABEL}の入口へ](../README.md) · [移植記録](../import-report.md)\n'
         # Indexes are generated, but protect edits between generations as well.
         expected = previous.get('indexes', {}).get(str(path.relative_to(ROOT)))
-        write(path, text, expected, overwrite)
+        data = text.encode('utf-8')
+        outputs.append((path, data, expected))
+        indexes[str(path.relative_to(ROOT))] = sha(data)
     manifest = {
         'imported': DATE, 'scope': SCOPE,
         'page_count': len(records), 'source_line_count': sum(p['source_line_count'] for p in records),
         'missing_embed_count': sum(p['missing_embed_count'] for p in records),
         'pages': records, 'assets': list(assets.values()),
-        'indexes': {f'{SECTION}/{g}/README.md': sha((ROOT/f'{SECTION}/{g}/README.md').read_bytes()) for g in GROUPS},
+        'indexes': indexes,
     }
-    MANIFEST.parent.mkdir(parents=True, exist_ok=True)
-    MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
+    manifest_data = (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode('utf-8')
+    outputs.append((MANIFEST, manifest_data, sha(MANIFEST.read_bytes()) if MANIFEST.exists() else None))
+    # Include indexes in the preflight: an edited index must block all writes,
+    # including refreshed notes and source files earlier in the output list.
+    for path, data, expected in outputs:
+        if path.exists() and path.read_bytes() != data and not overwrite:
+            if expected is None or sha(path.read_bytes()) != expected:
+                raise RuntimeError(f'Edited file protected: {path}')
+    for path, data, expected in outputs:
+        write(path, data, expected, overwrite)
     print(json.dumps({k: manifest[k] for k in ['page_count', 'source_line_count', 'missing_embed_count']}, ensure_ascii=False))
 
 

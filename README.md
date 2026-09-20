@@ -19,6 +19,7 @@ yuyannnnがこれまで学んできたことと、これから学び直すこと
 
 ## 整理の方向がわかるノート
 
+- [次に考える問い](learning/README.md)：AIとの壁打ちを始める・再開する入口。[対話からノートを更新する手順](docs/learning-workflow.md)も用意しています。
 - [線形写像と行列 — 基底を変えると、何が変わるのか](math/linear-maps-and-matrices.md)：定義から導出、具体例、Pythonでの検算まで。
 - [微分形式に驚いたきっかけ](math/geometry/differential-forms.md#source-L3)：Maxwell方程式への驚きから、別の数学へ関心が広がった記録。
 - [保存則だけで計算できるか](physics/conservation-and-constitutive-laws.md)：ばね、流体、電気回路から、モデルと実装の関係を考える。
@@ -88,6 +89,7 @@ math/           数学のノート、原文、画像、分野別索引
 physics/        物理のノート、原文、画像、分野別索引
 chemistry/      化学・材料・生命科学のノート、原文、分野別索引
 connections/    分野をつなぐノートの入口
+learning/       次に考える問いと、再開するノートへの入口
 references/     参考文献と読んだ範囲
 examples/       ノートに対応する小さな実行例
 scripts/        原文の移植と整合性の検証
@@ -99,6 +101,7 @@ docs/           書き方、取り込み方、構成の背景
 - 以前の学びを移す：[取り込みガイド](docs/importing.md)と移植記録（[数学](math/import-report.md)・[物理](physics/import-report.md)・[化学](chemistry/import-report.md)）。
 - 誤りや改善を伝える：[修正の提案について](CONTRIBUTING.md)。
 - AIと一緒に編集する：[編集規約](AGENTS.md)。
+- 壁打ちしながら育てる：[次の問い](learning/README.md) → [対話・確認・更新の手順](docs/learning-workflow.md)。
 - 公開ノートの構成を考える：[参考にしたリポジトリ](docs/repository-design.md)。
 
 私的な原文や下書きはローカルの `inbox/` に置き、Git管理対象から除外します。
