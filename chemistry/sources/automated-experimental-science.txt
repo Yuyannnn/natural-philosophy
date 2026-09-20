@@ -1,0 +1,66 @@
+AIロボット駆動科学
+
+[AI駆動研究]
+[マテリアルズインフォマティクス]
+
+
+
+	AIロボット駆動科学シンポジウム 2023
+https://ai-robot-science.connpass.com/event/283825/
+
+いま、新しい科学的方法論が萌芽しようとしています。それが、AIと実験ロボットを利用して科学研究プロセスを再定義する「AIロボット駆動科学」です。
+
+我が国は本分野において国際的に先導的な立場にあり、ムーンショット型研究開発事業や未来社会創造事業でいくつかの代表的なプロジェクトが進行しています。しかし、これまで我が国全体としてこの重要な領域の今後の方向性や振興の方策などを十分に議論する場はありませんでした。
+
+今回企画したAIロボット駆動科学シンポジウム 2023では、まず第一部として国内でAIロボット駆動科学の先駆を成す４プロジェクトの代表が一同に会して最新のトピックスや動向を紹介するほかに、科学技術イノベーション政策関連のシンクタンク等からも登壇頂き議論を深めます。さらに、第二部では専門家や研究者が最新の研究成果や知見を発表、議論するとともに、若手研究者によるショートトークやポスターセッションも開催いたします。
+
+我々は、AIロボット駆動科学がもたらすものは科学技術研究の進展の大きな加速だけに留まらず、過去の産業革命と同等かそれ以上の社会的インパクトを生む可能性があり、喫緊の重要な投資対象であると考えます。本シンポジウムでは、広く我が国の今後の科学技術研究開発のありかたも含め、自由闊達に議論を深めたいと考えます。
+
+ー　2023年7月6日　　シンポジウムオーガナイザー　高橋恒一、長藤圭介、原田香奈子、牛久祥孝（順不同）
+
+
+
+
+	研究活動の自動化
+https://sites.google.com/view/automated-research/roadmap?authuser=0
+
+
+
+
+ NeurIPS 2024: AI for Science with Chris Bishop
+https://www.microsoft.com/en-us/research/podcast/neurips-2024-ai-for-science-with-chris-bishop/
+
+
+
+
+	AI for Food Allergies
+https://huggingface.co/blog/hugging-science/ai-for-food-allergies
+
+
+
+
+	AInstein: Assessing the Feasibility of AI-Generated Approaches to Research Problems
+https://arxiv.org/abs/2510.05432
+
+
+
+
+	FOD#121: $300 million to start – a big promise for science
+https://www.turingpost.com/p/fod-121-300-million-to-start-a-big-promise-for-science
+
+
+
+
+	Perspective on utilizing foundation models for laboratory automation in materials research
+https://www.tandfonline.com/doi/full/10.1080/27660400.2025.2582379#abstract
+
+
+
+	Biomni
+
+
+
+
+	一杉研究室
+https://solid-state-chemistry.jp/
+

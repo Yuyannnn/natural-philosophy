@@ -22,6 +22,8 @@ jobs:
         run: python3 scripts/import_scrapbox_math.py --check
       - name: Verify the physics archive
         run: python3 scripts/import_scrapbox_physics.py --check
+      - name: Verify the chemistry archive
+        run: python3 scripts/import_scrapbox_chemistry.py --check
       - name: Verify oscillator convergence and energy balance
         run: python3 examples/oscillator_energy.py
       - name: Verify the change-of-basis example

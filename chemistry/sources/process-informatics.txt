@@ -1,0 +1,17 @@
+Process Informatics
+[マテリアルズインフォマティクス]
+[AI駆動研究]
+[AIロボット駆動科学]
+
+
+
+	Scale-up of complex molecular reaction system by hybrid mechanistic modeling and deep transfer learning
+https://www.nature.com/articles/s41467-025-63982-2
+
+
+
+
+
+	【プロセスインフォマティクス入門】製造プロセス最適化のための情報技術を易しく解説
+https://aixtal.com/blog-process-informatics/
+

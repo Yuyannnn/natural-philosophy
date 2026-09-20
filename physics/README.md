@@ -38,7 +38,7 @@ Scrapboxに残してきた物理と工学のメモを、当時の言葉と疑問
 
 力学・振動からは[常微分方程式](../math/analysis/ordinary-differential-equations.md)、流体・伝熱からは[偏微分方程式](../math/analysis/partial-differential-equations.md)、応力や相対論からは[テンソル](../math/geometry/tensors.md)、対称性からは[群論](../math/algebra/group-theory.md)へ戻れます。
 
-数学側にある[フーリエ変換とラプラス変換](../math/analysis/fourier-and-laplace-transforms.md)は共通のノートとして参照し、重複した原文を作りません。物性化学・分子工学は、今後の化学編からも参照できる境界領域のノートです。
+数学側にある[フーリエ変換とラプラス変換](../math/analysis/fourier-and-laplace-transforms.md)は共通のノートとして参照し、重複した原文を作りません。物性化学・分子工学は、[化学編](../chemistry/README.md)からも参照する境界領域のノートです。化学編の[平衡と速度](../chemistry/reaction-direction-and-rate.md)では、化学ポテンシャルから反応の向きへつなぎます。
 
 ## 原文・出典・確認した範囲
 

@@ -7,15 +7,16 @@ yuyannnnがこれまで学んできたことと、これから学び直すこと
 - [線形写像と行列 — 基底を変えると、何が変わるのか](math/linear-maps-and-matrices.md)：定義から導出、具体例、Pythonでの検算まで。
 - [微分形式に驚いたきっかけ](math/geometry/differential-forms.md#source-L3)：Maxwell方程式への驚きから、別の数学へ関心が広がった記録。
 - [保存則だけで計算できるか](physics/conservation-and-constitutive-laws.md)：ばね、流体、電気回路から、モデルと実装の関係を考える。
-- [数学の入口](math/README.md)・[物理学の入口](physics/README.md)：分野別の索引と、当時の疑問から読み返す経路。
+- [反応はどちらへ進むか、どれだけ速いか](chemistry/reaction-direction-and-rate.md)：平衡・速度・物質収支をつなぐ。
+- [数学の入口](math/README.md)・[物理学の入口](physics/README.md)・[化学の入口](chemistry/README.md)：分野別の索引と、当時の疑問から読み返す経路。
 
-Scrapboxから数学と関連分野の**64ページ**、物理と関連分野の**51ページ**を全文移植しました。当時の言葉・疑問・感想は残し、今回AIが加えた説明は別の節に記しています。出典と[数学の原文](math/sources/README.md)・[物理の原文](physics/sources/README.md)をたどりながら、一つの問いを掘り下げるノートを育てていきます。
+Scrapboxから数学と関連分野の**64ページ**、物理と関連分野の**51ページ**、化学・材料・生命科学の**12ページ**を全文移植しました。当時の言葉・疑問・感想は残し、今回AIが加えた説明は別の節に記しています。出典と[数学の原文](math/sources/README.md)・[物理の原文](physics/sources/README.md)・[化学の原文](chemistry/sources/README.md)をたどりながら、一つの問いを掘り下げるノートを育てていきます。
 
 ## 分野
 
 - [数学 — Math](math/README.md)：線形代数、解析、幾何、確率・統計、数値計算など。
 - [物理学 — Physics](physics/README.md)：力学、流体、熱・統計、電磁気、量子、相対論、機械学習との接点。
-- [化学 — Chemistry](chemistry/README.md)：今後整理する分野。
+- [化学 — Chemistry](chemistry/README.md)：化学の基礎、材料・分子とAI、生命科学との接点。
 - [分野のつながり — Connections](connections/README.md)：数学と自然科学・工学・ソフトウェアの接点を、これからまとめる場所。
 - [参考文献 — References](references/README.md)：学びの出発点と、確認した範囲。
 
@@ -48,9 +49,10 @@ python3 examples/change_of_basis.py
 python3 examples/oscillator_energy.py
 python3 scripts/import_scrapbox_math.py --check
 python3 scripts/import_scrapbox_physics.py --check
+python3 scripts/import_scrapbox_chemistry.py --check
 ```
 
-後半2つのコマンドは、公開ファイルだけで原文・移植本文のチェックサム、行の対応、ローカルリンク、画像を検証します。同じ確認を[GitHub Actions](https://github.com/Yuyannnn/natural-philosophy/actions/workflows/check.yml)でも実行します。数理的な正しさは、各ノートで出典・導出・計算を確かめていきます。
+後半3つのコマンドは、公開ファイルだけで原文・移植本文のチェックサム、行の対応、ローカルリンク、画像を検証します。同じ確認を[GitHub Actions](https://github.com/Yuyannnn/natural-philosophy/actions/workflows/check.yml)でも実行します。数理的な正しさは、各ノートで出典・導出・計算を確かめていきます。
 
 ## 書く・育てる
 
@@ -59,7 +61,7 @@ python3 scripts/import_scrapbox_physics.py --check
 ```text
 math/           数学のノート、原文、画像、分野別索引
 physics/        物理のノート、原文、画像、分野別索引
-chemistry/      化学の入口
+chemistry/      化学・材料・生命科学のノート、原文、分野別索引
 connections/    分野をつなぐノートの入口
 references/     参考文献と読んだ範囲
 examples/       ノートに対応する小さな実行例
@@ -69,7 +71,7 @@ docs/           書き方、取り込み方、構成の背景
 ```
 
 - ノートを追加する：[ひな形](templates/note.md) → [執筆ガイド](docs/writing.md)。
-- 以前の学びを移す：[取り込みガイド](docs/importing.md)と移植記録（[数学](math/import-report.md)・[物理](physics/import-report.md)）。
+- 以前の学びを移す：[取り込みガイド](docs/importing.md)と移植記録（[数学](math/import-report.md)・[物理](physics/import-report.md)・[化学](chemistry/import-report.md)）。
 - 誤りや改善を伝える：[修正の提案について](CONTRIBUTING.md)。
 - AIと一緒に編集する：[編集規約](AGENTS.md)。
 - 公開ノートの構成を考える：[参考にしたリポジトリ](docs/repository-design.md)。

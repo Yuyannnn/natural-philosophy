@@ -1,0 +1,71 @@
+創薬AI
+[バイオインフォマティクス]
+[バイオサイバネティクス]
+[生物学]
+[生物学的安全保障]
+[分子工学]
+[分子動力学シミュレーション]
+
+
+	Alpha fold
+
+
+
+	https://twitter.com/yoko_materialDX/status/1633422323750412288?s=20
+分子生成の論文。
+
+従来はルールに基づいて生成するため、それから逸脱した構造は生成できませんでした。
+
+Microsoftさんが、データベースから頻度の高い部分構造を抽出しその接続情報に基づき分子生成することで最高の予測性能を実現したそうです。
+
+
+
+	https://twitter.com/fladdict/status/1632778542630174720?s=20
+高分子生成の論文。
+
+ダイセルさんから、候補となる低分子を与えると重合反応の可能性を調べ、合成可能な高分子を網羅的に生成できるPythonライブラリが公開されました。反応データ追加で拡張でき便利そう。
+
+大規模データベースの実現ももうすぐ？高分子MIが進展に期待。
+
+
+
+	東大と理研、狙った物性を示す物質を自動設計する理論手法を開発
+https://twitter.com/tjmlab/status/1631138266375409664?s=20
+
+
+
+
+	ALpha fold3
+
+https://alphafoldserver.com/about
+
+
+
+
+	AIを活用した新薬創出
+https://www.chugai-pharm.co.jp/profile/digital/ai_technology.html
+
+
+
+
+	AIによるタンパク質構造予測が飛躍的に進化
+https://www.natureasia.com/ja-jp/ndigest/v18/n3/AIによるタンパク質構造予測が飛躍的に進化/106641
+
+
+
+
+	Massive Foundation Model for Biomolecular Sciences Now Available via NVIDIA BioNeMo
+https://blogs.nvidia.com/blog/evo-2-biomolecular-ai/
+
+
+
+
+	Dual use of artificial-intelligence-powered drug discovery
+https://www.nature.com/articles/s42256-022-00465-9?utm_source=chatgpt.com
+
+
+
+
+
+	xFOREST Therapeutics
+https://www.xforestx.com/jp

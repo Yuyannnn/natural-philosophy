@@ -17,6 +17,8 @@
 
 - [Scrapboxの物理メモ](yuyannnn-scrapbox-physics.md)：物理の取得範囲と今回の補足に使った資料。
 
+- [Scrapboxの化学メモ](yuyannnn-scrapbox-chemistry.md)：化学・材料・生命科学の取得範囲と補足資料。
+
 新しい資料は[参考文献のひな形](../templates/reference.md)から追加できます。
 
 ---

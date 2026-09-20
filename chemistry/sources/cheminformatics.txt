@@ -1,0 +1,47 @@
+ケモインフォマティクス
+[物性化学]
+[生命科学]
+[高校化学]
+[量子論]
+[物性化学]
+[バイオインフォマティクス]
+[マテリアルズインフォマティクス]
+[AIロボット駆動科学]
+
+
+
+
+	ケモインフォマティクス入門書
+https://zenn.dev/poclabweb/books/chemoinfomatics_beginner/viewer/lesson04_00_rdkit2
+
+
+
+	ケモインフォマティクス理論(化学記述子)
+https://zenn.dev/poclabweb/books/chemoinfomatics_theory_descriptor
+
+
+
+	ケモインフォマティクス理論(機械学習編)
+https://zenn.dev/poclabweb/books/chemoinfomatics_theory_machinelearning
+
+
+
+
+	SMILES記法
+https://ja.wikipedia.org/wiki/SMILES記法
+
+
+
+	化学のためのマルチモーダル大規模言語モデル（LLM）
+https://www.ecomottblog.com/?p=15283)この辺りの論文を1
+
+
+
+	MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition
+https://arxiv.org/pdf/2403.03691
+
+
+
+	Comparing software tools for optical chemical structure recognition
+https://pubs.rsc.org/en/content/articlehtml/2024/dd/d3dd00228d
+

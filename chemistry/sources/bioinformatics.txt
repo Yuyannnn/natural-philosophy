@@ -1,0 +1,91 @@
+バイオインフォマティクス
+[Transformer]
+[統計的機械学習]
+[バイオサイバネティクス]
+[生物学]
+[生物学的安全保障]
+[AI駆動研究]
+[Process Informatics]
+[マテリアルズインフォマティクス]
+
+
+	BioHackAcademy
+http://bioclub.org/tags/biohack-academy
+
+
+
+	Selecting molecules with diverse structures and properties by maximizing submodular functions of descriptors learned with graph neural networks
+https://www.nature.com/articles/s41598-022-04967-9
+
+
+
+	バイオインフォマティクスのためのアルゴリズム入門
+https://www.bioalgorithms.info/
+
+第1章 イントロダクション
+
+第2章 アルゴリズムと計算量
+
+第3章 分子生物学入門
+
+第4章 全解探索
+
+第5章 グリーディーアルゴリズム
+
+第6章 動的計画法
+
+第7章 分割統治アルゴリズム
+
+第8章 グラフ・アルゴリズム
+
+第9章 組み合わせパタンマッチング
+
+第10章 クラスタリングと系統樹解析
+
+第11章 隠れマルコフモデル
+
+第12章 確率的アルゴリズム
+
+
+
+	scvi
+https://scvi-tools.org/
+
+
+
+
+	RNA-seqとATAC-seqデータの統合解析: 方法と応用
+https://www.rhelixa.com/knowledgebase/rnaseq-atacseq-integrated-analysis/
+
+
+
+
+	Introducing Chai-2: Zero-shot antibody design in a 24-well plate
+https://www.chaidiscovery.com/news/introducing-chai-2
+
+
+
+
+	Arc Virtual Cell Challenge: A Primer
+https://huggingface.co/blog/virtual-cell-challenge
+
+参加者は CRISPR を使って遺伝子を沈黙させた際の細胞への影響を予測するモデルを訓練する
+
+
+
+
+	biomini
+https://biomni.stanford.edu/
+
+
+
+
+
+	Promoter-GPT: Writing DNA Instructions with Language Models
+https://huggingface.co/blog/hugging-science/promoter-gpt
+
+
+
+
+	When AI Meets Biology: Promise, Risk, and Responsibility
+https://www.microsoft.com/en-us/research/blog/when-ai-meets-biology-promise-risk-and-responsibility/

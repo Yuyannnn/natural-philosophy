@@ -59,3 +59,13 @@ python3 scripts/import_scrapbox_physics.py --check
 ~~~
 
 数学と物理の変換・検証処理はscripts/scrapbox_import.pyを共用し、科目ごとの設定と補足は別ファイルに置きます。物理の再生成にはinbox/scrapbox/2026-09-20/physics-full/の取得時API応答・画像情報が必要ですが、検証は公開ファイルだけで動きます。数学側の既存原文を物理へ複製せず、科目をまたぐ相対リンクでつなぎます。
+
+## 化学編の取り込み
+
+化学編では、公開Scrapboxから化学・材料・生命科学の12ページを全文保存しています。[移植記録](../chemistry/import-report.md)に選択範囲、訂正、未確認箇所を記しました。物理編の物性化学・分子工学は相対リンクで参照します。
+
+~~~sh
+python3 scripts/import_scrapbox_chemistry.py --check
+~~~
+
+共通の変換・検証処理を使い、設定とAI補足はscripts/chemistry_import_content.pyに置きます。再生成はinbox/scrapbox/2026-09-20/chemistry-full/の取得データを使用し、検証は公開ファイルだけで実行できます。画像1点は元URLへのリンクとして残し、ローカルには再配布していません。

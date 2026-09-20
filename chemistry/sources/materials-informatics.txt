@@ -1,0 +1,46 @@
+マテリアルズインフォマティクス
+[創薬AI]
+[生物学]
+[バイオインフォマティクス]
+[バイオサイバネティクス]
+[生体流体工学]
+[生物学的安全保障]
+[秘密計算]
+[材料工学]
+[材料力学]
+
+
+
+	MatterGen: A new paradigm of materials design with generative AI 
+https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/
+
+
+
+
+	AI-driven materials design: a mini-review
+https://arxiv.org/abs/2502.02905
+
+
+
+	マテリアルズインフォマティクス(MI)とは？成功事例やよくある課題
+https://www.brainpad.co.jp/doors/contents/materials_informatics/
+
+
+
+
+	材料開発期間を1年未満に短縮 秘密計算活用の新手法
+https://monoist.itmedia.co.jp/mn/articles/2508/15/news023.html
+
+
+
+
+	polymerize
+https://polymerize.jp/
+
+
+
+
+	CellOracle
+https://github.com/morris-lab/CellOracle
+
+
