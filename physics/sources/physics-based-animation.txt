@@ -1,0 +1,46 @@
+物理ベースアニメーション(CG)
+
+	github
+https://github.com/PBA-2023S/pba
+
+
+コンピュータ・グラフィックス（CG）は，映画やゲームやVRなど様々な場所で用いられている．本講義ではCGの中でもとりわけ，物理シミュレーションを用いた動きの生成について取り扱う.　具体的には剛体や弾性体や流体のアニメーションを題材にして、その背後にある，線形代数、ベクトル解析、偏微分方程式，汎関数原理、最適化法，数値計算法などの応用数学について学ぶことを狙いとする．本講義は単に仕組みを座学で学ぶだけでなく，C++を用いたプログラミング課題を通じて，研究用途の実践的なプログラミングする能力を養う．
+
+講義項目：
+バネ・質点モデル
+剛体のシミュレーション
+弾性体のシミュレーション
+布や髪のシミュレーション
+空間ハッシュを用いた衝突判定
+連立一時方程式の解法
+
+
+[* 第1講]
+
+Video Games
+CG Animation
+Science, Training and Education
+CAD
+V Tuber
+E-Commerce
+
+Physics-based Animation vs Scientific/Engineering Sim
+
+	CG Research
+Applied Mathematics & Domain Knowledge
+Computational Fabrication
+Image Processing
+Rendering
+Geometry Processing
+Geometry Capture
+Physics-based Animation
+Character Animation
+Computational Fabrication
+
+
+	Spatial Discretization
+
+・Physics-based Simulation
+- Data Structure
+- Algorithm(Equation of Motion + Time Integration)
+

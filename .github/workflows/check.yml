@@ -20,5 +20,9 @@ jobs:
           python-version: '3.12'
       - name: Verify sources, imported bodies, links, and assets
         run: python3 scripts/import_scrapbox_math.py --check
+      - name: Verify the physics archive
+        run: python3 scripts/import_scrapbox_physics.py --check
+      - name: Verify oscillator convergence and energy balance
+        run: python3 examples/oscillator_energy.py
       - name: Verify the change-of-basis example
         run: python3 examples/change_of_basis.py

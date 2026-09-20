@@ -1,0 +1,95 @@
+物理のおもしろい話と勉強リンク
+
+	「標準模型を超える物理」
+http://www-hep.phys.s.u-tokyo.ac.jp/~hama/201910_Kyoto_BSM_Hamaguchi.pdf
+
+
+
+	「一般相対性理論」
+http://t-ikeda.akira.ne.jp/enter/science/phys/relativity/relativity18.pdf
+
+
+
+	「標準模型を超えた物理」
+http://www-hep.phys.s.u-tokyo.ac.jp/~hama/201910_Kyoto_BSM_Hamaguchi.pdf
+
+
+
+	「時間について」
+https://www.youtube.com/watch?v=96OgG_zC8Q8
+
+
+
+	「東大の映像授業」
+https://ocw.u-tokyo.ac.jp/course-search/
+
+
+
+	「EMANの物理学」
+https://eman-physics.net/
+
+
+
+	「物理の鍵しっぽ」
+http://hooktail.sub.jp/
+
+
+
+	「高校数学の美しい物語」
+https://mathtrain.jp/
+
+
+
+	「教授のwebサイト」
+http://www.math.titech.ac.jp/~kawahira/courses.html
+
+
+
+	「宇宙に入ったカマキリ」
+https://takun-physics.net/?cat=16
+
+
+
+	「勉強メモ」
+https://study-guide.hatenablog.jp/entry/20150422/p2
+
+
+
+	「今度こそ納得できる物理」
+https://blog.goo.ne.jp/ktonegaw/e/8777ea8175e9c48e0170df5b930f42d9
+
+
+
+	「いろもの物理Tips集」
+http://irobutsu.a.la9.jp/PhysTips/index.html
+
+
+	「大統一理論」
+https://writings.stephenwolfram.com/2020/04/how-we-got-here-the-backstory-of-the-wolfram-physics-project/
+
+
+	物理学の勉強法
+http://physics2008.web.fc2.com/phys/start/ta/how.to.study.pdf
+
+1.力学を通して物理学の学び方を学ぶ
+バラバラな知識をいくら詰め込んでもすぐ忘れる
+物理の本を一からよんでも挫折する
+体系的に勉強するというのは最も大事なこと
+力学の場合、力学の目的は？力学の出発点となる法則は？力学の問題を解く一般的方法をまとめるとどうなるか？などと考え、力学マップを作る
+
+・定義を明確にしよう
+
+・数式の物理的意味を日本語言えるように
+
+2.教科書を閉じて、何も見ずに一からノートにまとめてみる
+教科書を読んで重要だと思うことを紙に書き出す
+何も見ないで自分のノートに理解した内容を１から再構成する
+人に説明するつもりでやる
+
+3.理解を深めるために問題を解く
+何の知識を使ったか、頭の中のマップの中の
+能動的に解く
+出題者はこの問題を通して何を学んで欲しかったのかを考える
+条件を少し緩めると、問題を一般化すると、別解はないかなども考える
+
+

@@ -1,0 +1,7 @@
+言語モデルの物理学
+[LLMの原理]
+[Large Language Model]
+[Embedding model]
+
+	言語モデルの物理学
+https://joisino.hatenablog.com/entry/physics

@@ -1,0 +1,68 @@
+気象学
+[scrapboxまとめ(物理)]
+[シミュレーション]
+
+
+	気象学（きしょうがく、（英: meteorology）は、地球の大気で起こる諸現象（気象）や個々の流体現象を研究する学問。自然科学あるいは地球科学の一分野。
+https://ja.wikipedia.org/wiki/気象学
+
+
+
+	Energy Exascale Earth System Model
+https://e3sm.org/
+
+
+
+
+	GraphCast: AI model for faster and more accurate global weather forecasting
+https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/
+
+
+
+	Google DeepMind、高精度天気予測AI「GenCast」をオープンソース化
+https://www.itmedia.co.jp/news/articles/2412/05/news109.html
+
+
+
+	ウェザーニューズ、太陽光バルク向けの発電量予測データのAPI提供を開始
+https://iotnews.jp/core-technology/235552/
+
+
+
+
+	【6月21日（金）は太陽光発電の日】AIを活用して発電量の予測精度を競う『第2回太陽光発電量予測AIコンペティション』エントリー開始
+https://prtimes.jp/main/html/rd/p/000000023.000006241.html
+
+
+
+	東芝独自のAIを活用した高精度な太陽光発電量予測技術を開発
+https://www.global.toshiba/jp/technology/corporate/rdc/rd/topics/19/1907-02.html#:~:text=当社はこの度、太陽光発電量を予測する技術において、当社独自のAIを活用した高精度な予測技術を開発しました。本技術では当社独自の気象予測システムから得られる様々な%20データを活用するとともに、太陽光発電設備の性能や設置条件が不明な場合でも過去の同設備の発電実績をもとにAIで性能や設置条件を推定し、発電量を高精度に予測します。%20本技術適用前と比較して、予測誤差が約9,FORUM%202019」にて紹介します。
+
+
+
+
+	PV syst
+https://www.pvsyst.com/
+
+
+
+
+	Solar Pro
+https://www.lapsys.co.jp/products/solarpro/index.html
+
+
+
+	NEDO 標準気象データベースの解説書
+https://www.nedo.go.jp/content/100778067.pdf
+
+
+
+	日射量データベース閲覧システム
+https://www.nedo.go.jp/content/100484811.pdf
+
+
+
+
+	日射に関するデータベース
+https://www.nedo.go.jp/seika_hyoka/nissharyou.html
+

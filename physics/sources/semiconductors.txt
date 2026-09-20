@@ -1,0 +1,71 @@
+半導体
+
+[パワー半導体]
+[コンピュータアーキテクチャ]
+[GPU]
+[コンピュータの技術レイヤー]
+[メカトロニクス]
+[FPGA]
+[Electronic Design Automation]
+[NPU]
+
+
+
+	エヌビディアのＧＰＵに対抗するＡＩ半導体開発企業一覧
+https://x.com/assetalive/status/1835183730547474803
+
+
+
+	AI x Computing Chips: How to Use Artificial Intelligence to Design Better Chips [Breakdowns]
+https://artificialintelligencemadesimple.substack.com/p/ai-x-computing-chips-how-to-use-artificial
+
+
+
+
+	半導体・デジタル産業戦略の現状と今後
+https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0012/handeji3.pdf
+
+
+
+
+	松尾研主催「AIと半導体」
+1回 講座概要
+2回 画像認識
+3回 半導体エコシステムの外観
+4回 CUDA/GPUライブラリ
+5回 CPUとコンピュータの構成
+6回 GPUのアーキテクチャについて
+7回 組み合わせ回路、順序回路、HW設計論やFPGAとは？
+8回 FPGA設計演習のチュートリアル
+9回 FPGA設計演習の実施
+
+
+
+
+	Groq
+https://groq.com/
+
+
+
+	together ai
+https://www.together.ai/
+
+
+
+
+	degima ai
+https://degima.ai/
+
+
+
+	パワー半導体
+https://www.fujielectric.co.jp/products/semiconductor/about/
+
+
+
+
+
+	経産省 AI半導体ワーキンググループ
+https://www8.cao.go.jp/cstp/ai/ai-semi_wg/1kai/1kai.html
+
+

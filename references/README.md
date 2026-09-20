@@ -15,6 +15,8 @@
 
 - [Scrapboxの数学メモ](yuyannnn-scrapbox-math.md)：既存メモの所在、取得範囲、整理への使い方。
 
+- [Scrapboxの物理メモ](yuyannnn-scrapbox-physics.md)：物理の取得範囲と今回の補足に使った資料。
+
 新しい資料は[参考文献のひな形](../templates/reference.md)から追加できます。
 
 ---

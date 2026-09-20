@@ -1,0 +1,62 @@
+非平衡熱力学
+[scrapboxまとめ(物理)]
+[熱力学]
+[情報熱力学]
+[非平衡開放系の物理]
+[統計力学]
+[熱&伝熱工学]
+[Diffusion Model]
+[最適輸送]
+
+
+
+	Workshop on Stochastic Thermodynamics - WOST IV | (smr 3837)
+https://indico.ictp.it/event/10171
+
+
+
+	ゆらぐ系の熱力学
+https://www.amazon.co.jp/ゆらぐ系の熱力学-非平衡統計力学の発展-SGCライブラリ-齊藤-圭司/dp/4781915639
+
+
+
+	量子エンタングルメントから創発する宇宙 (基本法則から読み解く物理学最前線) 
+https://www.amazon.co.jp/量子エンタングルメントから創発する宇宙-基本法則から読み解く物理学最前線-須藤-彰三/dp/4320035437
+
+
+	ゆらぎの定理@東京理科大学
+[https://www.youtube.com/watch?v=FDPqRyJbM5s]
+
+
+
+	大規模複雑ネットワークの非平衡熱力学を切り開く―非対称イジング模型のエントロピー生成の厳密解導出に成功―
+https://www.kyoto-u.ac.jp/ja/research-news/2023-06-27
+
+
+
+	深層学習の学習過程における相転移
+http://www-adsys.sys.i.kyoto-u.ac.jp/mohzeki/Presentation/Tokyo20150826.pdf
+
+
+
+	生成モデルは世界をどのように理解しているのか
+https://hillbig.github.io/ISM_Symposium2023_generativemodel_okanohara.pdf
+
+
+
+	拡散モデルとその周辺
+https://hillbig.github.io/WorkshopOT2023_diffusion_okanohara.pdf
+
+
+	Deep Unsupervised Learning using Nonequilibrium Thermodynamics
+https://proceedings.mlr.press/v37/sohl-dickstein15.pdf
+
+
+	非平 衡定 常系 の 熱 力学 と統計 力 学 に む けて
+https://www.jstage.jst.go.jp/article/butsuri/63/10/63_KJ00005047211/_pdf
+
+
+
+
+
+
