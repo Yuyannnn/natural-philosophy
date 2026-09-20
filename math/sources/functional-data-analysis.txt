@@ -1,0 +1,41 @@
+関数データ解析
+[異常検知]
+[時系列解析]
+[ベイズ統計]
+[異常検知]
+
+
+
+	関数データ解析
+https://speakerdeck.com/hidetoshimatsui/guan-shu-detajie-xi-henozhao-dai?slide=20
+
+
+
+	関数データ解析への招待
+https://speakerdeck.com/hidetoshimatsui/guan-shu-detajie-xi-henozhao-dai?slide=20
+
+
+
+	functionaly anomaly detection
+https://arxiv.org/pdf/2201.05115
+
+
+
+	functional outlier detection
+https://arxiv.org/abs/2109.06849
+
+
+
+	Multivariate Functional Outlier Detection using the FastMUOD Indices
+https://arxiv.org/abs/2207.12803
+
+
+
+	fdaoutlier: Outlier Detection Tools for Functional Data Analysis
+https://cran.r-project.org/web/packages/fdaoutlier/index.html
+https://cran.r-project.org/web/packages/fdaoutlier/vignettes/simulation_models.html
+
+
+
+
+	

@@ -1,0 +1,43 @@
+圏論的機械学習
+
+[圏論]
+[圏論的量子力学入門]
+[記号論理学(数学基礎論の基礎of基礎?)]
+[代数の基礎]
+
+
+	圏論的機械学習
+伝統的な圏論が対象と射の数学であるのに対して、応用圏論はシステムとプロセスの科学、特にシステムとプロセスの合成可能性の科学である
+
+システムとプロセスの合成可能性の基本的な舞台としてのモノイダル圏
+
+量子自然言語処理と大規模言語モデル
+
+
+
+	数学的構造を保存する深層学習の圏論的会社について
+https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1G3GS104/_pdf
+
+
+
+	Category Theory in Machine Learning
+https://arxiv.org/abs/2106.07032
+
+
+
+	Towards a Categorical Foundation of Deep Learning: A Survey
+https://arxiv.org/abs/2410.05353
+
+
+
+	圏論的量子機械学習
+
+
+
+	圏論的論理学とトポス理論
+
+
+	結び目理論と圏論
+
+
+	代数幾何と圏論

@@ -1,0 +1,26 @@
+ネットワーク分析
+[グラフ理論/離散数学]
+[グラフ表現]
+[ナレッジグラフ]
+
+
+	Pythonで有効グラフ
+		https://twitter.com/PINTO03091/status/1621812084316213249?s=20&t=0F9nQ8notN7dJt8uVx-Gjw
+
+
+
+	https://www.sejuku.net/blog/91371
+
+
+
+
+	レイアウトGMN:構造レイアウト類似性のためのニューラルグラフマッチング【JST機械翻訳】
+https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202205135306725
+
+
+
+
+	M-1グランプリ2024をAIで分析してみた
+https://note.com/nasukas/n/n6d8afdfa34ca
+
+

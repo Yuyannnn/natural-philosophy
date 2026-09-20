@@ -1,0 +1,12 @@
+線形数理要論
+[線形代数]
+
+1. 行列と行列式　(Matrices and Determinants)
+2. 固有値と計量 (Eigenvalues and Metric)
+3. 行列の標準形 (Canonical Forms of Matrices)
+4. グラフと行列 (Graphs and Matrices)
+5. 非負行列 (Nonnegative Matrices)
+6. 線形計画法 (Linear Programming)
+7. 線形システム  (Linear Systems)
+
+

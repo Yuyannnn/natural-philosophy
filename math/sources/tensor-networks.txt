@@ -1,0 +1,11 @@
+Tensor Networks/Tensor Factorization
+
+	西野友年 『テンソルネットワーク入門』
+https://twitter.com/kspub_kodansha/status/1633015124243124224?s=20
+
+
+
+	テンソルネットワーク入門＠計算物理春の学校
+https://github.com/TsuyoshiOkubo/Introduction-to-Tensor-Network
+https://github.com/TsuyoshiOkubo/Tensor-Network-Tutorial
+

@@ -1,0 +1,12 @@
+計算科学
+[並列計算とスパコン]
+[スパコン・高性能プログラミング・FEM・CAE]
+
+
+	計算科学ロードマップ2023
+https://cs-forum.github.io/roadmap-2023/
+
+
+	HPCIC計算科学フォーラム
+https://cs-forum.github.io/
+

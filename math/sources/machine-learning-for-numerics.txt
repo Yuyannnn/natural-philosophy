@@ -1,0 +1,6 @@
+機械学習で数値解析
+
+	[数値解析]
+
+	Partial Differential Equations Meet Deep Neural Networks: A Survey
+		https://arxiv.org/abs/2211.05567v2

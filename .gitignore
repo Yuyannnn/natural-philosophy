@@ -1,0 +1,14 @@
+# Local imports and unpublished drafts
+/inbox/
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+
+# macOS metadata
+.DS_Store
+
+# Local Python bytecode from migration tools
+__pycache__/
+*.py[cod]

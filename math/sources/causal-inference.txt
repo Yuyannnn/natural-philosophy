@@ -1,0 +1,84 @@
+因果推論
+[統計学]
+[確率]
+[統計的機械学習]
+[時系列解析]
+[効果検証]
+
+
+	統計的因果推論スライド
+		https://speakerdeck.com/arumakan/tong-ji-de-yin-guo-tui-lun-falsemian-qiang-hui-at-2022
+
+
+	DoWhyとEcon MLによる因果推論の実装
+		https://speakerdeck.com/s1ok69oo/dowhytoeconmlniyoruyin-guo-tui-lun-noshi-zhuang
+
+
+	リッジ回帰やラッソ回帰で因果推論できるのか？
+https://qiita.com/s1ok69oo/items/328781fc18bb75dca102
+
+
+
+	因果探索アプリケーション「Causalas」
+https://twitter.com/sshimizu2006/status/1633019411937505280?s=20
+
+
+
+	因果推論の科学
+
+
+
+	Pythonによる因果分析
+1 相関と因果の違いを理解しよう
+2 因果効果の種類を把握しよう
+3 グラフ表現とバックドア基準を理解しよう
+4 因果推論を実装しよう
+5 機械学習を用いた因果推論
+6 LiNGAMの実装
+7 ベイジアンネットワークの実装
+8 ディープラーニングを用いた因果探索
+
+
+
+
+
+	【新卒研修資料】効果検証_因果推論 / Impact evaluation Causal in...
+https://speakerdeck.com/brainpadpr/effect-verification-causal-inference
+
+
+
+
+	plus-d_ omi MMM（マーケティング・ミックス・モデリング）とは？
+https://xica.net/capabilities/marketing-mix-modeling/?source=WebAd&sf_media=gaw&sf_media_d=gs_general_m_mmm&sf_content=site_magellan-top&creative=000-SR026.m03mmm&kwd=mmm&utm_source=google&utm_medium=gaw&utm_campaign=gs_general_m_mmm&utm_content=000-SR026.m03&utm_term=mmm&gad_source=1&gad_campaignid=12653822840&gbraid=0AAAAABxhiMgv4jd1jm8WNFXXRac-yyTYP&gclid=CjwKCAjwq9rFBhAIEiwAGVAZP7ddikLiVk9NlLxHwIOVjvWFoeIFifaoph4-VmoANnNJizARz9XjDhoC96EQAvD_BwE
+
+
+
+
+	CausalImpact
+https://google.github.io/CausalImpact/CausalImpact.html
+
+
+
+
+
+
+	Inferring causal impact using Bayesian structural time-series models
+https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-1/Inferring-causal-impact-using-Bayesian-structural-time-series-models/10.1214/14-AOAS788.full?tab=ArticleLinkReference
+
+
+
+
+
+	状態空間モデルを用いた因果効果の推定: CausalImpact
+https://qiita.com/ssugasawa/items/d42fac583a15d8cd6c7d
+
+
+
+
+
+	インベンス・ルービン 統計的因果推論 (上) 
+https://www.amazon.co.jp/インベンス・ルービン-統計的因果推論-上-G-W-インベンス/dp/4254122918
+
+
+
+

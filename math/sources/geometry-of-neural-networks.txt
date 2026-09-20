@@ -1,0 +1,15 @@
+ニューラルネットワークの幾何学的見方
+
+	ニューラルネットワーク、幾何学、トポロジー
+		https://qiita.com/KojiOhki/items/af2241027b00f892d2bd
+
+	DNNの力学的・幾何学的解釈
+		https://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/pdf/773.pdf
+
+	多様体間のトポロジー的に豊富な写像の深い可逆近似
+		https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202203128251645
+
+	深層学習の数理
+		https://www.slideshare.net/trinmu/ss-161240890
+
+

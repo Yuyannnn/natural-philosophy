@@ -1,0 +1,22 @@
+AI汎化誤差の数学的解析
+[数学の分野を復習しながらお気持ち確認]
+[統計的機械学習]
+[確率過程]
+[確率]
+[深層学習の原理]
+
+
+	深層学習の汎化誤差のための近似性能と複雑性解析
+https://ibisml.org/ibis2019/files/2019/11/slide_imaizumi.pdf
+
+
+
+	東京大学大学院数理科学研究科 修士論文
+https://www.ms.u-tokyo.ac.jp/library/file/gakui/master2022.html
+
+
+
+	確率過程の統計推測の最近の展開 2023 (2/20, 3/7)
+https://yuima.movabletype.io/conferences/2023/01/2273641.html#yoshida
+
+

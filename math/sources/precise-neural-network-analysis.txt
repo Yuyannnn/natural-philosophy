@@ -1,0 +1,38 @@
+精密解析
+[深層学習の原理]
+[統計的機械学習]
+[モデルの内部構造解析]
+[計算量理論]
+[確率]
+[統計力学]
+
+
+	NTK理論
+線形近似可能なNNの動力学理論
+
+
+	動的平均場理論
+多層NNで有効だが、数学証明は2層まで
+
+
+	平均場理論
+2層NNなら
+
+
+	テンソル計画法
+多層NNで有効だが、指数計算時間
+ワンチャンTransformerに適用
+言語モデルと、数値的なnnはデータ構造が違うのでそのまま適用は難しいかも
+
+
+
+	Precise gradient descent training dynamics for finite-width multi-layer neural networks
+https://arxiv.org/abs/2505.04898
+
+
+
+
+	Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer
+https://arxiv.org/pdf/2203.03466
+
+

@@ -1,0 +1,84 @@
+圏論
+
+[数学の分野を復習しながらお気持ち確認]
+[数学・物理・情報科学・機械工学の分野マップ(独断と偏見)]
+[圏論的量子力学入門]
+[線形代数]
+[代数の基礎]
+[微分幾何学とトポロジー]
+[多様体]
+[圏論的機械学習]
+
+
+	圏論勉強会
+		http://nineties.github.io/category-seminar
+  https://www.youtube.com/watch?v=uWST7UivqeM
+  圏論勉強会のYoutubeいいぞ〜
+
+
+
+	トポロジーと圏論の夜明け
+		[https://www.youtube.com/watch?v=h_YJDTdHhU4]
+
+
+
+	圏論の地平線
+		https://gihyo.jp/book/2022/978-4-297-13150-0
+		良いらしい
+
+
+
+	圏論でゲーム攻略
+		https://twitter.com/0xtkgshn/status/1617747220320735237?s=20&t=rhwOTLPoK4tj-ONOUtNWdw
+		https://gihyo.jp/science/serial/01/category_theory_talk/0001
+
+
+
+	[/tkgshn/2023/1/24 神話構造から圏論完全理解]
+		面白い！！
+
+
+
+	圏論
+http://alg-d.com/math/kan_extension/
+
+
+
+	メモ
+「自然な」とは？
+矢印の合成が本質
+全てはKAN拡張
+矢印が主体らしい、矢印を解析
+米田の補題「矢印見れば元が同値みたいな」
+自然変換：ガッチリ定義が決まっている？ボンボン
+
+
+	関連するらしいリンク
+		[微分幾何学とトポロジー]
+		[代数の基礎]
+		[線形代数]
+
+
+	ニューラルネットワークの圏論的分析
+https://ibisml.org/ibis2021/files/2021/11/katsumata_ibis2021.pdf
+
+
+
+	Category Theory in Machine Learning
+
+
+
+	数理科学11月号〜拡がりゆく圏論〜
+
+集合にはない特徴を備えた集まりとして圏という新概念が打ち立てられた
+
+集合論では、元・集合が先で、写像が後であるが、圏論では射が先で、集合が後である
+
+モノイダル圏としての量子論
+量子論の数学的構造をモノイダル圏とよばれる圏として捉えると、量子論の構造をある程度視覚的にわかりやすい形で表せる
+
+圏論的機械学習
+
+
+
+

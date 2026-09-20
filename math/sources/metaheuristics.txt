@@ -1,0 +1,37 @@
+メタヒューリスティクス
+[ヒューリスティックコンテスト]
+[数理最適化]
+
+	ヒューリスティック最適化資料集
+https://heuristic-ja.growi.cloud/リンク集
+
+
+
+	貪欲法、山登り法、焼きなまし、ビームサーチ、これらの間の関係について
+https://kmyk.github.io/blog/blog/2019/03/07/local-search-and-greedy/
+
+
+
+
+	焼きなまし法
+
+
+	ビームサーチ
+
+
+	GA
+
+
+	ACO
+
+
+	タブーサーチ
+
+
+	粒子群最適化
+
+
+
+	Introduction to Design and Implementation of Metaheuristics
+https://speakerdeck.com/umepon/introduction-to-design-and-implementation-of-metaheuristics
+

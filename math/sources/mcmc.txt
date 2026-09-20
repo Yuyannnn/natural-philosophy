@@ -1,0 +1,6 @@
+MCMC
+[統計的機械学習]
+
+	ベイズとMCMCと統計モデルの関係
+https://logics-of-blue.com/ベイズとmcmcと統計モデルの関係/#:~:text=MCMCを使う目的は,を推定することです%E3%80%82
+

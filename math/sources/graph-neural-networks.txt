@@ -1,0 +1,73 @@
+Graph Neural Network
+[表現学習]
+[グラフ表現]
+[ナレッジグラフ]
+[グラフ理論/離散数学]
+[競技プログラミングでよくあるアルゴリズム集]
+[Graph Foundation Model]
+
+
+	グラフ深層学習のすすめ
+[https://www.youtube.com/watch?v=7rgXi3Xp6NI]
+
+
+タスクごとに特徴量設計を行う必要がある」を GNN を使う動機にしてるけど，わたしの経験上これはあんまり現実的じゃない．というのは GNN の性能はグラフに大きく依存するので「グラフ設計」が GNN 版の特徴量設計として強く残ってる．
+
+
+
+	PhysGraph: Physics-Based Integration Using Graph Neural Networks
+		https://arxiv.org/abs/2301.11841v1
+		こんな応用ができるんや・・
+
+
+
+	Kaggleの2nd solutionでGraph Attentionが応用されている
+https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022
+
+
+
+
+	LangChainを使って自然文の入力を構造化データに変換する実験
+https://note.com/fukufuku_wanko/n/n698e4fdce300
+
+
+
+	SOLVING NP-HARD PROBLEMS ON GRAPHS WITH EXTENDED ALPHAGO ZERO
+https://arxiv.org/pdf/1905.11623.pdf
+
+
+
+	グラフニューラルネットワーク(GNN)徹底解説！用途と仕組みからPyGでの実装まで
+https://zenn.dev/kami/articles/83c2daff760f5d
+
+
+
+	SymbolicRegression.jl
+https://github.com/MilesCranmer/SymbolicRegression.jl
+
+
+[/k1ito/Deep Symbolic Regression RNNと強化学習でシンボリック回帰]
+
+
+
+
+	ZEP: A TEMPORAL KNOWLEDGE GRAPH ARCHITECTURE FOR AGENT MEMORY
+https://arxiv.org/pdf/2501.13956
+
+
+
+
+	Temporal Knowledge Graphで作る！時間変化するナレッジを扱うAI Agentの世界
+https://tech.layerx.co.jp/entry/tkg-agent
+
+
+
+
+	Heterogeneous Graph Neural Network
+https://dl.acm.org/doi/abs/10.1145/3292500.3330961
+
+
+
+
+	Auto-GNN: Neural Architecture Search of Graph Neural Networks
+https://arxiv.org/abs/1909.03184

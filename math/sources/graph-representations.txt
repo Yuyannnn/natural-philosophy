@@ -1,0 +1,26 @@
+グラフ表現
+
+[Graph Neural Network]
+[Random Graph]
+[グラフ理論/離散数学]
+[知識グラフについて調べる]
+[ナレッジグラフ]
+[競技プログラミングでよくあるアルゴリズム集]
+
+
+
+	図を可視化するには、筆者が以前開発したWeb上で手軽にGraphvizを扱えるGraphviz-boardがあるのでそれを使ってみた。
+https://www.itmedia.co.jp/news/articles/2303/20/news134_3.html
+
+
+
+
+	VisOnlyQA
+https://github.com/psunlpgroup/VisOnlyQA
+
+
+
+
+	Graph foundation models for relational data
+https://research.google/blog/graph-foundation-models-for-relational-data/
+
